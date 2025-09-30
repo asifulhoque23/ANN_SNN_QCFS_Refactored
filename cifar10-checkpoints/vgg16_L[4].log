@@ -1,0 +1,17 @@
+[2025-09-30 10:54:52,753][main_train.py][line:65][INFO] start training!
+[2025-09-30 10:55:00,885][main_train.py][line:69][INFO] Epoch:[0/5]	 loss=371.05756	 acc=15.050
+[2025-09-30 10:55:01,522][main_train.py][line:72][INFO] Epoch:[0/5]	 Test acc=22.560
+
+[2025-09-30 10:55:09,462][main_train.py][line:69][INFO] Epoch:[1/5]	 loss=341.53016	 acc=22.828
+[2025-09-30 10:55:10,089][main_train.py][line:72][INFO] Epoch:[1/5]	 Test acc=29.890
+
+[2025-09-30 10:55:18,112][main_train.py][line:69][INFO] Epoch:[2/5]	 loss=320.97565	 acc=27.560
+[2025-09-30 10:55:18,748][main_train.py][line:72][INFO] Epoch:[2/5]	 Test acc=37.450
+
+[2025-09-30 10:55:26,754][main_train.py][line:69][INFO] Epoch:[3/5]	 loss=301.49566	 acc=32.836
+[2025-09-30 10:55:27,422][main_train.py][line:72][INFO] Epoch:[3/5]	 Test acc=40.570
+
+[2025-09-30 10:55:35,455][main_train.py][line:69][INFO] Epoch:[4/5]	 loss=285.63190	 acc=36.866
+[2025-09-30 10:55:36,102][main_train.py][line:72][INFO] Epoch:[4/5]	 Test acc=46.420
+
+[2025-09-30 10:55:36,260][main_train.py][line:78][INFO] Best Test acc=46.420
