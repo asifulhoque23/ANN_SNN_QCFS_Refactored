@@ -1,4 +1,9 @@
 # ANN_SNN_QCFS
+
+*** changed some directory names:
+    Models >>> models
+    Preprocess >>> preprocess
+
 Code for paper "Optimal ANN-SNN conversion for high-accuracy and ultra-low-latency spiking neural networks"
 
 Reproducable and fix random seed. 
